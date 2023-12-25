@@ -59,7 +59,7 @@
     }
     .hero__title{
          text-align: center;
-         line-height: 56px;
+        //  line-height: 56px;
          font-style: 64px;
          
     }
@@ -69,11 +69,19 @@
     }
     .hero__content{
          width: 100%;
+    
     }
     .hero__text{
+        color: #FFF;
+
+        text-align: center;
+       
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 28px; /* 186.667% */
          text-align: center;
-         font-style: 15px;
-         line-height: 28;
+         
     }
  }
 
